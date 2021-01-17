@@ -1,5 +1,7 @@
 # Solutions to Basic Introduction to Organic Chemistry
 
+For optimal viewing, go to [the nbviewer](https://nbviewer.jupyter.org/github/flippedAben/ochem_sols/tree/m/).
+
 ## Setup
 
 I had to install `conda` because it's the easiest way to install `rdkit`. To do
