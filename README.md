@@ -1,5 +1,7 @@
 # Solutions to Basic Introduction to Organic Chemistry
 
+Exercises are on [LibreText][1].
+
 For optimal viewing, go to [the nbviewer](https://nbviewer.jupyter.org/github/flippedAben/ochem_sols/tree/m/).
 
 ## Setup
@@ -19,3 +21,5 @@ conda install -c rdkit rdkit
 # Get a Jupyter notebook
 conda install jupyter
 ```
+
+[1]: https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Basic_Principles_of_Organic_Chemistry_%28Roberts_and_Caserio%29/01%3A_Introduction_to_Organic_Chemistry/1.0E%3A_1.E%3A_Introduction_to_Organic_Chemistry_%28Exercises%29
